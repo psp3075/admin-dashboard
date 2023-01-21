@@ -39,7 +39,11 @@ module.exports = {
         590: "590px",
       },
       backgroundImage: {
-        "hero-pattern": "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+        "hero-pattern":
+          "url('https://img.freepik.com/free-vector/digital-designers-team-drawing-with-pen-computer-monitor_74855-10586.jpg?w=740&t=st=1674289011~exp=1674289611~hmac=d951c54ac13ac20bc47ef063aa6037f059c2fc6076811a3ff75c87cba872241e')",
+      },
+      backgroundSize: {
+        half: "50%",
       },
     },
   },
